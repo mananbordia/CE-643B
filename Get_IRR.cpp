@@ -17,5 +17,5 @@ int main(){
         }
         else r = m;
     }
-    cout<<r; // 29.0128
+    cout<<r; // 0.290128
 }
